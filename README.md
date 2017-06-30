@@ -1,4 +1,12 @@
-# i3/Linux Config Files (Tokyo Rice)
+<h1 align="center">i3/Linux Config Files (Tokyo Rice)</h1>
+
+<div align="center">
+  <sub>The little config that could. Built by
+  <a href="https://github.com/Grinzzly">Grinzzly</a>
+  </a>
+</div>
+
+<br/>
 
 My config files for various aspects of my (first rice!) set up with i3-gaps on Linux.
 
