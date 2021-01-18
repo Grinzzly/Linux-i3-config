@@ -8,18 +8,20 @@
 
 <br/>
 
-My config files for various aspects of my (first rice!) set up with i3-gaps on Linux.
-
-Includes two subtly different themes. The wallpapers are photos made by friend of mine in Tokyo.
+My config files for various aspects of my (first rice!) set up with i3-gaps on Linux. Includes two subtly different themes.
 
 ***
 
 ## Asakusa Theme
+
 ![Asakusa Theme](/i3-asakusa-theme/screenshot-asakusa.png)
+
 ![Asakusa Theme](/i3-asakusa-theme/screenshot-asakusa-stats.png)
 
 ## Tokyo Skyline Theme
+
 ![Tokyo Skyline Theme](/i3-tokyo-skyline-theme/screenshot-tokyo-skyline.png)
+
 ![Tokyo Skyline Theme](/i3-tokyo-skyline-theme/screenshot-tokyo-skyline-stats.png)
 
 ***
