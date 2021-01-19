@@ -1,4 +1,4 @@
-<h1 align="center">i3/Linux Config Files (Tokyo Rice)</h1>
+<h1 align="center">i3/Linux Config Files</h1>
 
 <div align="center">
   <sub>The little config that could. Built by
@@ -8,7 +8,7 @@
 
 <br/>
 
-My config files for various aspects of my (first rice!) set up with i3-gaps on Linux. Includes two subtly different themes.
+My config files for various aspects of my set up with i3-gaps on Linux. Includes two subtly different themes.
 
 ***
 
