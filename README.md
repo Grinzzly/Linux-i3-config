@@ -28,7 +28,7 @@ My config files for various aspects of my set up with i3-gaps on Linux. Includes
 
 ## Specifications  
 * __Debian__
-  * Debian GNU/Linux 9.0 (stretch) - https://www.debian.org/
+  * Debian GNU/Linux 10.0 (stretch) - https://www.debian.org/
 * __i3-gaps__
   * i3 version 4.13
   * i3-gaps: https://github.com/Airblader/i3
